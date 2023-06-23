@@ -1,9 +1,120 @@
-<mxfile host="app.diagrams.net" modified="2023-06-23T04:36:31.379Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" version="21.5.0" etag="anRB3UvQSpxtRN8ngY4Z" type="github">
+<mxfile host="app.diagrams.net" modified="2023-06-23T04:47:58.400Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="RMfCKS9Flb9s0Me9xri7" version="21.5.0" type="github">
   <diagram name="Page-1" id="Ip-dP6J80tDUUooS-dwi">
-    <mxGraphModel>
+    <mxGraphModel dx="880" dy="484" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="GAp7V5P6JQ0oC9MeCdaz-1" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="40" y="200" width="110" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="GAp7V5P6JQ0oC9MeCdaz-2" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="280" y="290" width="110" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="GAp7V5P6JQ0oC9MeCdaz-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="GAp7V5P6JQ0oC9MeCdaz-3" target="GAp7V5P6JQ0oC9MeCdaz-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GAp7V5P6JQ0oC9MeCdaz-3" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="204" y="95" width="140" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="GAp7V5P6JQ0oC9MeCdaz-4" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="380" y="60" width="160" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="GAp7V5P6JQ0oC9MeCdaz-5" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="610" y="60" width="160" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="GAp7V5P6JQ0oC9MeCdaz-6" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="490" y="295" width="165" height="165" as="geometry" />
+        </mxCell>
+        <mxCell id="GAp7V5P6JQ0oC9MeCdaz-8" value="Vehicle" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="30" y="170" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="GAp7V5P6JQ0oC9MeCdaz-9" value="int VehicaNo." style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="40" y="200" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="GAp7V5P6JQ0oC9MeCdaz-10" value="VehicleType" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="50" y="240" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="GAp7V5P6JQ0oC9MeCdaz-11" value="EntranceGate" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="200" y="60" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="GAp7V5P6JQ0oC9MeCdaz-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.006;entryY=0.144;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="GAp7V5P6JQ0oC9MeCdaz-4">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="350" y="140" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="358" y="135" />
+              <mxPoint x="358" y="83" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GAp7V5P6JQ0oC9MeCdaz-12" value="ParkingManager" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="205" y="120" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="GAp7V5P6JQ0oC9MeCdaz-13" value="Text" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="205" y="210" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="GAp7V5P6JQ0oC9MeCdaz-14" value="Ticket" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="204" y="150" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="GAp7V5P6JQ0oC9MeCdaz-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="GAp7V5P6JQ0oC9MeCdaz-15" target="GAp7V5P6JQ0oC9MeCdaz-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GAp7V5P6JQ0oC9MeCdaz-15" value="vehicle" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="205" y="180" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="GAp7V5P6JQ0oC9MeCdaz-17" value="ParkingManager" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="380" y="20" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="GAp7V5P6JQ0oC9MeCdaz-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0.019;entryY=0.4;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="GAp7V5P6JQ0oC9MeCdaz-18" target="GAp7V5P6JQ0oC9MeCdaz-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GAp7V5P6JQ0oC9MeCdaz-18" value="List&amp;lt;Slot&amp;gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="390" y="70" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="GAp7V5P6JQ0oC9MeCdaz-19" value="TwoWheelerParkingManager" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="385" y="95" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="GAp7V5P6JQ0oC9MeCdaz-20" value="4WheelerParkingManager" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="385" y="125" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="GAp7V5P6JQ0oC9MeCdaz-23" value="Ticket" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="280" y="260" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="GAp7V5P6JQ0oC9MeCdaz-24" value="ENtry time" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="280" y="295" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="GAp7V5P6JQ0oC9MeCdaz-25" value="vehicle type" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="280" y="330" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="GAp7V5P6JQ0oC9MeCdaz-26" value="int price /min/hour" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="285" y="370" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="GAp7V5P6JQ0oC9MeCdaz-28" value="Exit Gate" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="490" y="260" width="170" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="GAp7V5P6JQ0oC9MeCdaz-31" value="calculatePrice()" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="487.5" y="340" width="170" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="GAp7V5P6JQ0oC9MeCdaz-32" value="Text" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="487.5" y="380" width="170" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="GAp7V5P6JQ0oC9MeCdaz-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.313;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="GAp7V5P6JQ0oC9MeCdaz-33" target="GAp7V5P6JQ0oC9MeCdaz-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GAp7V5P6JQ0oC9MeCdaz-33" value="ParkingManager" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="487.5" y="300" width="170" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="GAp7V5P6JQ0oC9MeCdaz-34" value="Slot" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="610" y="30" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="GAp7V5P6JQ0oC9MeCdaz-35" value="Slot Type" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="620" y="100" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="GAp7V5P6JQ0oC9MeCdaz-36" value="slot pirce" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="620" y="125" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="GAp7V5P6JQ0oC9MeCdaz-37" value="isEmpty()" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="620" y="170" width="130" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
